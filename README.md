@@ -1,3 +1,7 @@
+csv-summarizer
+
+A Python script that reads any CSV file and prints a statistical summary of its numeric columns.
+
 ## What It Does
 A Python script that reads any CSV file and prints: column names, total row count, and for every numeric column—sum, average, min, and max.
 
